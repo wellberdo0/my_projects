@@ -5,5 +5,5 @@
 # My personal directory
 setwd('C:/Users/welli/Documents/Wellington/Git/R')
 
-# Olá mundo
-print('Olá mundo!')
+# Hello world
+print('Hello world!')
